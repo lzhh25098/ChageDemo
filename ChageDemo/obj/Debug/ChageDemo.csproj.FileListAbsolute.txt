@@ -1,0 +1,9 @@
+G:\c#\ChageDemo\ChageDemo\bin\Debug\ChageDemo.exe.config
+G:\c#\ChageDemo\ChageDemo\bin\Debug\ChageDemo.exe
+G:\c#\ChageDemo\ChageDemo\bin\Debug\ChageDemo.pdb
+G:\c#\ChageDemo\ChageDemo\obj\Debug\ChageDemo.csprojAssemblyReference.cache
+G:\c#\ChageDemo\ChageDemo\obj\Debug\ChageDemo.frmLogin.resources
+G:\c#\ChageDemo\ChageDemo\obj\Debug\ChageDemo.Properties.Resources.resources
+G:\c#\ChageDemo\ChageDemo\obj\Debug\ChageDemo.csproj.GenerateResource.cache
+G:\c#\ChageDemo\ChageDemo\obj\Debug\ChageDemo.exe
+G:\c#\ChageDemo\ChageDemo\obj\Debug\ChageDemo.pdb
